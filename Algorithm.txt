@@ -1,0 +1,9 @@
+Start
+Declare variables ratedCurrent and measuredCurrent of type double
+Prompt user to enter the rated current of the circuit breaker
+Read ratedCurrent
+Prompt user to enter the measured current in the circuit
+Read measuredCurrent
+If measuredCurrent > ratedCurrent → print "Overload detected. Circuit breaker should trip."
+Else → print "Current is within safe limit."
+Stop
