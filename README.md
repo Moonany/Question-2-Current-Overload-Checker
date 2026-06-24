@@ -45,4 +45,7 @@ From the project folder, execute:
 
 Then enter the rated current and measured current when prompted.
 
+## Notes
 
+- The source file name contains a typo: `Currebt Overload Checker.cpp`.
+- The program uses a simple comparison to decide if the measured current is above the rated current.
